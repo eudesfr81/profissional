@@ -111,8 +111,8 @@ header {
 }
 
 main img {
-    height: 600px;
-    width: 400px;
+    height: 700px;
+    width: 500px;
     margin-top: 7rem;
 }
 
@@ -201,7 +201,7 @@ h5 {
 .card-agenda {
     padding-top: 8rem;
     margin-top: 20rem;
-    width: 450px;
+    width: 500px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -221,7 +221,7 @@ h5 {
     padding-top: 4rem;
     margin-top: 20rem;
     margin-bottom: 50rem;
-    width: 450px;
+    width: 500px;
     margin-left: auto;
     margin-right: auto;
 }
