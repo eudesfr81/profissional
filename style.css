@@ -163,7 +163,10 @@ h5 {
     padding: 10px;
 }
 
-
+.cursos-tabela a {
+    text-decoration: none;
+    color: #000;
+}
 .card-cursos {
     padding-top: 8rem;
     margin-top: 20rem;
