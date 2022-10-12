@@ -135,13 +135,15 @@ h5 {
     text-align: center;
     font-size: 15px;
     font-family: "poppins", "sans-serif";
-    width:500px;
 }
+
 
 .card-curriculo {
     padding-top: 8rem;
     margin-top: 20rem;
-    width:500px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .card-curriculo h2 {
     text-align: center;
@@ -163,6 +165,7 @@ h5 {
     padding: 10px;
 }
 
+
 .cursos-tabela a {
     text-decoration: none;
     color: #000;
@@ -170,7 +173,9 @@ h5 {
 .card-cursos {
     padding-top: 8rem;
     margin-top: 20rem;
-    width:500px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .card-cursos h2 {
     text-align: center;
@@ -196,7 +201,9 @@ h5 {
 .card-agenda {
     padding-top: 8rem;
     margin-top: 20rem;
-    width:500px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .card-agenda h2 {
     text-align: center;
@@ -214,7 +221,9 @@ h5 {
     padding-top: 4rem;
     margin-top: 20rem;
     margin-bottom: 50rem;
-    width:500px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .card-sobre h2 {
     margin-top: 8rem;
